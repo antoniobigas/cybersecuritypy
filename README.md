@@ -4,7 +4,7 @@
 <div style="display: inline_block"> <br>
 <img  alt="Bigas-Python" height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img  alt="Bigas-BlueTeam" height="90" width="80" src="https://img.icons8.com/ios-filled/512/hacking.png" />
-</div>
+</div> <br> <br>
 
 
 
