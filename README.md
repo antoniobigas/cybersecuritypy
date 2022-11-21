@@ -16,9 +16,13 @@ sha1 Encrypt: http://www.sha1-online.com/
 
 #
 
-biblioteca hashlib do python: https://docs.python.org/3/library/hashlib.html?highlight=hashlib#module-hashlib
+Biblioteca hashlib do python: https://docs.python.org/3/library/hashlib.html?highlight=hashlib#module-hashlib
 
-biblioteca Itertools: https://docs.python.org/3/library/itertools.html
+Biblioteca Itertools: https://docs.python.org/3/library/itertools.html
+
+Biblioteca BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+
 
 ##
 
@@ -39,7 +43,6 @@ biblioteca Itertools: https://docs.python.org/3/library/itertools.html
 <a href="https://github.com/antoniobigas/cybersecuritypy/tree/master/Desenvolvimento%20de%20ferramentas%20parte%202">Geradores: Hashes, Wordlists, WebScrapping e Webcrawler</a><br>
   
 <a href="url">Verificador de telefone, ocultador de arquivo, verificador de ip externo, ferramenta grafica no navegador</a><br>
-  
 
 </div>
 
