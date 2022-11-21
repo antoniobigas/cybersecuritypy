@@ -1,6 +1,4 @@
-# CyberSecurity
-
-Repositorio referente ao curso Segurança da informação com Python
+# Segurança da informação com Python
 
 Professor: Bruno Dias
 
