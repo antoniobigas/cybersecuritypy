@@ -18,8 +18,13 @@ biblioteca hashlib do python: https://docs.python.org/3/library/hashlib.html?hig
 Todas aplicações criadas:
 
 app ping simples e multiplo
+
 cliente tcp
+
 cliente udp
+
 server
+
 gerador de senhas
+
 gerador de hash
