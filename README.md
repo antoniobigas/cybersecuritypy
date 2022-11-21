@@ -1,4 +1,6 @@
-# Repositorio referente ao curso Segurança da informação com Python
+# CyberSecurity
+
+Repositorio referente ao curso Segurança da informação com Python
 
 Professor: Bruno Dias
 
@@ -31,7 +33,7 @@ biblioteca hashlib do python: https://docs.python.org/3/library/hashlib.html?hig
   
 <a href="https://github.com/antoniobigas/cybersecuritypy/tree/master/Desenvolvimento%20de%20ferramentas%20parte%201/Threads%20e%20Ips">Threads e IPs</a><br>
  
-<a href="url">Geradores: Hashes, Wordlists, WebScrapping e Webcrawler</a><br>
+<a href="https://github.com/antoniobigas/cybersecuritypy/tree/master/Desenvolvimento%20de%20ferramentas%20parte%202">Geradores: Hashes, Wordlists, WebScrapping e Webcrawler</a><br>
   
 <a href="url">Verificador de telefone, ocultador de arquivo, verificador de ip externo, ferramenta grafica no navegador</a><br>
   
