@@ -13,6 +13,7 @@ link sha1 Encrypt: http://www.sha1-online.com/
 #
 
 biblioteca hashlib do python: https://docs.python.org/3/library/hashlib.html?highlight=hashlib#module-hashlib
+##
 
 
 Todas aplicações criadas:
