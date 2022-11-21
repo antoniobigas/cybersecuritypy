@@ -17,7 +17,7 @@ Md5 Encrypt: https://md5decrypt.net/en/
 Sha1 Encrypt: http://www.sha1-online.com/
 
 
-Biblioteca hashlib do python: https://docs.python.org/3/library/hashlib.html?highlight=hashlib#module-hashlib
+Biblioteca hashlib: https://docs.python.org/3/library/hashlib.html?highlight=hashlib#module-hashlib
 
 Biblioteca Itertools: https://docs.python.org/3/library/itertools.html
 
