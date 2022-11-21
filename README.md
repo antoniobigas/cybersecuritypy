@@ -28,3 +28,10 @@ server
 gerador de senhas
 
 gerador de hash
+
+threads
+
+ips
+
+
+
