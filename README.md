@@ -1,6 +1,7 @@
 # Repositorio referente ao curso Segurança da informação com Python
 
 Professor: Bruno Dias
+
 Plataforma: DIO - Digital innovation One
 
 
