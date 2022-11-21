@@ -12,9 +12,9 @@ Plataforma: DIO - Digital innovation One
 
 Links uteis:
 
-md5 Encrypt: https://md5decrypt.net/en/
+Md5 Encrypt: https://md5decrypt.net/en/
 
-sha1 Encrypt: http://www.sha1-online.com/
+Sha1 Encrypt: http://www.sha1-online.com/
 
 
 Biblioteca hashlib do python: https://docs.python.org/3/library/hashlib.html?highlight=hashlib#module-hashlib
