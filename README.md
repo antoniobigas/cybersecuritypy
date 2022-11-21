@@ -27,7 +27,7 @@ biblioteca hashlib do python: https://docs.python.org/3/library/hashlib.html?hig
 
 <a href="https://github.com/antoniobigas/cybersecuritypy/tree/master/Desenvolvimento%20de%20ferramentas%20parte%201">Gerador de senhas, comparador de hash</a><br>
   
-<a href="[url](https://github.com/antoniobigas/cybersecuritypy/tree/master/Desenvolvimento%20de%20ferramentas%20parte%201/Threads%20e%20Ips)">Threads e IPs</a><br>
+<a href="https://github.com/antoniobigas/cybersecuritypy/tree/master/Desenvolvimento%20de%20ferramentas%20parte%201/Threads%20e%20Ips">Threads e IPs</a><br>
  
 <a href="url">Geradores: Hashes, Wordlists, WebScrapping e Webcrawler</a><br>
   
