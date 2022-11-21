@@ -1,6 +1,7 @@
-# cybersecuritypy
-Repositorio referente ao curso Segurança da informação com Python
+# Repositorio referente ao curso Segurança da informação com Python
 
+Professor: Bruno Dias
+Plataforma: DIO - Digital innovation One
 
 
 md5 Encrypt: https://md5decrypt.net/en/
