@@ -27,11 +27,21 @@ server
 
 gerador de senhas
 
-gerador de hash
+comparador de hash
 
 threads
 
 ips
+
+Gerador de Hashses
+
+Gerador de Wordlists
+
+WebScrapping
+
+
+Web Crawler
+
 
 
 
