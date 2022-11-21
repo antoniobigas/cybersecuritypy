@@ -1,5 +1,7 @@
 # Segurança da informação com Python
 
+<img  alt="Bigas-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
 Professor: Bruno Dias
 
 Plataforma: DIO - Digital innovation One
