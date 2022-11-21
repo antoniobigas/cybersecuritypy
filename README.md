@@ -16,7 +16,12 @@ biblioteca hashlib do python: https://docs.python.org/3/library/hashlib.html?hig
 ##
 
 
-Todas aplicações criadas:
+<div>
+|Todas aplicações criadas: | |
+|--|--|
+| [INSIRAAQUI](LINK)  |
+| [INSIRAAQUI](LINK)  |
+
 
 app ping simples e multiplo
 
@@ -42,7 +47,7 @@ WebScrapping
 
 
 Web Crawler
-
+</div>
 
 
 
