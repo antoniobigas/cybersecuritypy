@@ -1,8 +1,8 @@
 # Segurança da informação com Python
-
+<div style="display: inline_block"> <br>
 <img  alt="Bigas-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img  alt="Bigas-BlueTeam" height="60" width="50" src="https://img.icons8.com/ios-filled/512/hacking.png" />
-
+</div>
 
 Professor: Bruno Dias
 
