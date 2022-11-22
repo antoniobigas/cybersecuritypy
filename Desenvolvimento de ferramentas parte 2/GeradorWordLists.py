@@ -9,3 +9,5 @@ for i in resultado:
     print(''.join(i))
 #join junta o caracter um na posicao com o proximo, e assim ocorre o loop de estabelecido em resultado
 
+
+
