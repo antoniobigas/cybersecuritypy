@@ -8,8 +8,7 @@
 
 
 
-Professor: Bruno Dias
-
+Esse repositório é referente as aplicações criadas durante o curso.
 Plataforma: DIO - Digital innovation One
 
 
